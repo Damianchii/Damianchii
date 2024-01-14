@@ -4,6 +4,8 @@
 
 <h3 align="center">A passionate <span color="red">Frontend Developer </span>From Poland📍</h3>
 
+$${\color{red}Red}$$
+
 <br/>
 <!--
 **Damianchii/Damianchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
