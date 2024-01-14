@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **React**
 
-💬 Ask me about **HTML, JAVASCRIPT... or anything [here](https://github.com/Damianchii/salesp07/issues)**
+💬 Ask me about **HTML, JAVASCRIPT... 
 
  </div>
 
@@ -27,7 +27,7 @@
   <a href="mailto:damianczerwinsky@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/damian-czerwinsky" target="_blank">
+  <a href="https://www.linkedin.com/in/damian-czerwi%C5%84ski-12560321b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Damianchii.github.io/dist/index" target="_blank">
