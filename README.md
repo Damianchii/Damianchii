@@ -1,4 +1,8 @@
 <h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&weight=600&size=30&duration=200&pause=500&color=025EF7&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B;%E2%8C%A8%EF%B8%8F;%F0%9F%8F%80;%F0%9F%8D%94;%F0%9F%8C%8D;%F0%9F%92%BB;%F0%9F%8F%8B%EF%B8%8F;%F0%9F%92%A4" alt="Typing SVG" /></a>
+</h1>
+
+<h1 align="center">
   <!-- Want this effect ? ->| https://readme-typing-svg.herokuapp.com/demo/ |<- try this-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&weight=600&size=30&pause=2000&color=025EF7&center=true&vCenter=true&random=false&width=500&lines=Hello+I'm+Damian+Czerwinsky%F0%9F%91%8B;I'm+Frontend+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a></a>
 </h1>
