@@ -46,4 +46,4 @@
 </div>
 <!-- AUTHOR DAMIAN CZERWINSKY -->
 </div>
-
+<img src="https://img.shields.io/badge/Javascript-333333?style=for-the-badge&logo=javascript&logoColor=red" />
