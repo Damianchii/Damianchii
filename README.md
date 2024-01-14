@@ -38,7 +38,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&duration=100&pause=1000000000000000&color=F2F704&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%94%A7+Languages+and+Frameworks+%F0%9F%94%A7" alt="Typing SVG" /></a></h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,scss" />
     <img src="https://skillicons.dev/icons?i=javascript,nextjs" /><br>
  <h3 align="center"> Comming soon...</h3>
   <br/>
