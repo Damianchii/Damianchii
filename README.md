@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=javascript,nextjs" /><br>
   Comming soon...
+  <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,mysql," /><br>
 </div>
 
