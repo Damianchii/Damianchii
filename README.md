@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&weight=600&size=30&pause=2000&color=025EF7&random=false&width=435&lines=Hello+I'm+Damian+Czerwinsky+%F0%9F%91%8B;I'm+Frontend+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&weight=600&size=30&pause=2000&color=025EF7&center=true&vCenter=true&random=false&width=500&lines=Hello+I'm+Damian+Czerwinsky%F0%9F%91%8B;I'm+Frontend+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a></a>
 </h1>
 
 <h3 align="center">A passionate Frontend Developer From Poland📍</h3>
