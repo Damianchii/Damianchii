@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Frontend Developer From Poland📍</h3>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **a marketplace**
  
