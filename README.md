@@ -39,9 +39,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,scss" />
-    <img src="https://skillicons.dev/icons?i=javascript,nextjs,php" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nextjs" /><br>
  <h3 align="center"> Comming soon...</h3>
   <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,mysql,php" /><br>
 </div>
 
