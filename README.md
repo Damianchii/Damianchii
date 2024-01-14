@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Mulish&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+🔥;+I'm+Damian+Czerwinsky!+👋;" />
 </h1>
 
-<h3 align="center">A passionate $${\color{red}Frontend Developer}$$From Poland📍</h3>
+<h3 align="center">A passionate Frontend Developer From Poland📍</h3>
 
 
 
