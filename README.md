@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate Frontend Developer From Poland📍</h3>
 
-<div align="left">
+<div align="center">
  
  🔭 I’m currently working on **ecommerce store**
  
@@ -34,7 +34,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
+<!-- AUTHOR DAMIAN CZERWINSKY -->
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&duration=100&pause=1000000000000000&color=F2F704&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%94%A7+Languages+and+Frameworks+%F0%9F%94%A7" alt="Typing SVG" /></a></h1>
 <br/>
 <div align="center">
@@ -43,5 +43,13 @@
  <h3 align="center"> Comming soon...</h3>
   <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,mysql,php" /><br>
+</div>
+<!-- AUTHOR DAMIAN CZERWINSKY -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Damianchii/Damianchii/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
