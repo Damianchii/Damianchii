@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **React**
 
-💬 Ask me about **HTML, JAVASCRIPT... or anything [here](https://github.com/damianchii/salesp07/issues)**
+💬 Ask me about **HTML, JAVASCRIPT... or anything [here](https://github.com/Damianchii/salesp07/issues)**
 
  </div>
 
@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/damian-czerwinsky" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://damianchii.github.io" target="_blank">
+  <a href="https://Damianchii.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
