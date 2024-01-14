@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **ecommerce store**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=blue" />
 
 💬 Ask me about <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=yellow" />
 
