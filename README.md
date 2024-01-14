@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **React**
 
-💬 Ask me about **HTML, JAVASCRIPT... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **HTML, JAVASCRIPT... or anything [here](https://github.com/damianchii/salesp07/issues)**
 
  </div>
 
