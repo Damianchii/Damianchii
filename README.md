@@ -40,7 +40,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=javascript,nextjs" /><br>
- <div align="center"> Comming soon...</div>
+ <h3 align="center"> Comming soon...</h3>
   <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,mysql," /><br>
 </div>
